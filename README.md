@@ -1,11 +1,17 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Igor+Viana+Tomaz;Eu+tenho+18+anos;Eu+estou+cursando+Ciência+da+Computação;Seja+bem-vindo(a)!+⚡)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Igor+Viana+Tomaz;Eu+tenho+18+anos;Eu+estou+cursando+Ciência+da+Computação;Seja+bem-vindo(a)!)](https://git.io/typing-svg)
+##
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=igorvt23&show_icons=true&count_private=true&hide_border=true&title_color=4169E1&icon_color=4169E1&text_color=c9d1d9&bg_color=0d1117" alt="Igor Viana Tomaz github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorvt23&layout=compact&hide_border=true&title_color=4169E1&text_color=ff91a4&bg_color=0d1117" />
+
 </div>
+
+###
+
+<div align="center"> 
+  <img width="25%" alt="Igor-Raio" height="200" width="200" src="https://media0.giphy.com/media/2J7syufHzvbeDGDENA/giphy.gif?cid=6c09b952cfrxrz8ayfh5ionz25ej50zy6gzm3gg0be73gcka&rid=giphy.gif&ct=s"> </div>
 
 ![Snake animation](https://github.com/igorvt23/igorvt23/blob/output/github-contribution-grid-snake.svg)
   
@@ -18,5 +24,5 @@ https://git.io/typing-svg)
   <a href="https://www.linkedin.com/in/igor-viana-tomaz-080583238/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
     
  </div>
-  
+ 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=footer"/>
