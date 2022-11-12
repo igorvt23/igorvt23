@@ -10,8 +10,6 @@
 
 ###
 
-
-
 ![Snake animation](https://github.com/igorvt23/igorvt23/blob/output/github-contribution-grid-snake.svg)
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=Algumas+formas+de+contato;)](
@@ -23,6 +21,7 @@ https://git.io/typing-svg)
   <a href="https://www.linkedin.com/in/igor-viana-tomaz-080583238/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
     
  </div>
+ 
  <div align="center"> 
   <img width="25%" alt="Igor-Raio" height="200" width="200" src="https://media0.giphy.com/media/2J7syufHzvbeDGDENA/giphy.gif?cid=6c09b952cfrxrz8ayfh5ionz25ej50zy6gzm3gg0be73gcka&rid=giphy.gif&ct=s"> </div>
   
