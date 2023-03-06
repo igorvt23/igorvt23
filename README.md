@@ -9,8 +9,10 @@
 </div>
 
 <div align="center" style="display: inline_block"><br>
+  <img align="center" alt="Html" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png">
+  <img align="center" alt="Css" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/732/732190.png">
   <img align="center" alt="JavaScript" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
-  <img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
+  <img align="center" alt="Java" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/3291/3291669.png">
   <img align="center" alt="C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 </div>
 
