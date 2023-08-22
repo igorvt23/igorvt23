@@ -4,7 +4,7 @@
 ##
 <div align="center">  
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorvt23&layout=compact&hide_border=true&title_color=4169E1&text_color=ff91a4&bg_color=0d1117" />
-  <img width="25%" alt="Igor-Raio" height="200" width="200" src="https://media.giphy.com/media/L2lChsMsB8SJ1dJpQO/giphy.gif"> </div>
+
 
 </div>
 
@@ -12,13 +12,17 @@
   <img align="center" alt="Html" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png">
   <img align="center" alt="Css" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/732/732190.png">
   <img align="center" alt="JavaScript" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
-  <img align="center" alt="Java" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/3291/3291669.png">
   <img align="center" alt="C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="PHP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="center" alt="mySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
 </div>
 
 ###
+<div align="center">  
+  <img width="25%" alt="Igor-Raio" height="200" width="200" src="https://media.giphy.com/media/L2lChsMsB8SJ1dJpQO/giphy.gif">
+</div>
 
-![Snake animation](https://github.com/igorvt23/igorvt23/blob/output/github-contribution-grid-snake.svg)
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=Contacts;)](
 https://git.io/typing-svg)
