@@ -12,7 +12,7 @@
   <img align="center" alt="Html" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png">
   <img align="center" alt="Css" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/732/732190.png">
   <img align="center" alt="JavaScript" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
-  <img align="center" alt="C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="Python" height="50" width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg">
   <img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="PHP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="mySQL" height="50" width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original-wordmark.svg">
