@@ -3,10 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=Hey,+my+name+is+Igor+Viana+Tomaz;I'm+22+years+old;I+am+studying+Computer+Science;Welcome!)](https://git.io/typing-svg)
 ##
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=igorvt23&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" width="41%" height="195px" alt="languages graph"  />
-</div>
-
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Html" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png">
   <img align="center" alt="Css" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/732/732190.png">
