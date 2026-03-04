@@ -17,6 +17,12 @@
   <img align="center" alt="mySQL" height="50" width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original-wordmark.svg">
 </div>
 
+<div align="center">
+  <br>
+  <a href="https://igor-viana-portifolio.vercel.app/" target="_blank">CLICK HERE TO ACCESS THE ONLINE PORTFOLIO</a>
+  <br>
+</div>
+
 ###
 <div align="center">  
   <img width="25%" alt="Igor-Raio" height="200" width="200" src="https://media.giphy.com/media/L2lChsMsB8SJ1dJpQO/giphy.gif">
